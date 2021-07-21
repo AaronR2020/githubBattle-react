@@ -1,0 +1,14 @@
+.Indiv_Cards{
+    margin: 10px;
+    padding: 5px;
+    color: white;
+
+}
+.red{
+    color: red;
+}
+.Cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

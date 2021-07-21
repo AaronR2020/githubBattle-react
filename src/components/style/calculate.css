@@ -1,0 +1,22 @@
+.Calc{
+    display: flex;
+    justify-content: center;
+}
+form{
+    margin-right: 30px;
+}
+.SubmitButton{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Submit{   
+    width: 300px;
+    padding:5px;
+    margin: 50px 100px;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
